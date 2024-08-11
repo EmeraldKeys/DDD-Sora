@@ -12,7 +12,7 @@ assets:
   source:
    - name: se0002.win32.scd
 
-- name: remastered\SYS\0001\SYS0001.SND\se0000.win32.scd
+- name: remastered\SYS\0001\SY0001.SND\se0000.win32.scd
   platform: pc
   method: copy
   source:
