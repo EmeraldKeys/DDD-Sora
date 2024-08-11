@@ -1,0 +1,19 @@
+title: Dream Drop Distance Battle Quotes
+description: Replaces Sora's voice clips with those from Dream Drop Distance
+originalAuthor: EmeraldKeys
+assets:
+
+- name: remastered\PLAYER\0001\PL0001.SND\se0002.win32.scd
+  multi:
+   - name: remastered\PLAYER\0011\PL0011.SND\se0002.win32.scd 
+   - name: remastered\PLAYER\0013\PL0013.SND\se0002.win32.scd 
+  platform: pc
+  method: copy
+  source:
+   - name: se0002.win32.scd
+
+- name: remastered\SYS\0001\SYS0001.SND\se0000.win32.scd
+  platform: pc
+  method: copy
+  source:
+   - name: se0000.win32.scd 
